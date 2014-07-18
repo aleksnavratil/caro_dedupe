@@ -11,7 +11,7 @@ master_list = read_csv("all SF accounts_caro.csv")
 #slave_list = slave_list[0:100]
 #master_list = master_list[0:500] ## Use these two lines to reduce the size of your data. Useful for fast testing and protoyping new features
 
-threshold_value = 75  ## Tune this by hand to get good agreement. Probably you want a value between 70 and 90. It works like this:
+threshold_value = 70  ## Tune this by hand to get good agreement. Probably you want a value between 70 and 90. It works like this:
 #>>> fuzz.partial_ratio("this is a test", "this is a test!")
 #    100
 
@@ -38,8 +38,8 @@ matches_df = slave_list[slave_list['Company Name'].isin(set_of_matches)] ## And 
 print clean_df ## Print it to the terminal so we can see what's going on
 print matches_df
 
-clean_df.to_csv("Companies that don't appear in master list.csv") ## Write our results to file
-matches_df.to_csv("Companies that appear in master list.csv")
+clean_df.to_csv("threshold =", threshold_value, "Companies that don't appear in master list.csv") ## Write our results to file
+matches_df.to_csv("threshold =", threshold_value, "Companies that appear in master list.csv")
 
 print "checksum: total original rows in slave list = ", len(slave_list)
 print "sum of clean_df rows and matches_df rows =", len(clean_df) + len(matches_df)
