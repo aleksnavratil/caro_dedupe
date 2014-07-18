@@ -1,1 +1,558 @@
 ,Company Name,Company Website,Description,Media Spend (M)
+20,"1-800-CONTACTS, Inc.",www.1800contacts.com,contact lenses, $100 - 250 
+46,"Gucci America, Inc.",www.gucci.com/us,designer clothing & accessories, $50 - 100 
+50,Harbor Freight Tools,www.harborfreight.com,home improvement, $50 - 100 
+53,"LensCrafters, Inc.",www.lenscrafters.com,vision care centers, $50 - 100 
+64,Rolex Watch USA,www.rolex.com,"watches, luxury", $50 - 100 
+76,"Aaron's, Inc.",www.aaronrents.com,furniture rentals, $25 - 50 
+79,"Aldi Food Stores, Inc.",www.aldi.com,retail food stores, $25 - 50 
+83,"Belk Stores Services, Inc.",www.belk.com,department stores, $25 - 50 
+85,"Big Lots, Inc.",www.biglots.com,closeout retail stores, $25 - 50 
+86,"Bob's Discount Furniture, Inc.",www.mybobs.com,furniture, $25 - 50 
+91,"Burt's Bees, Inc.",www.burtsbees.com,natural personal care products, $25 - 50 
+92,Cabela's Inc.,www.cabelas.com,"outdoor clothing, sporting goods", $25 - 50 
+101,Famous Footwear,www.famousfootwear.com,retail shoe stores, $25 - 50 
+104,Fruit of the Loom,www.fruit.com,"underwear, t-shirts, socks", $25 - 50 
+105,Giorgio Armani,www.giorgioarmani.com,upscale designer clothing, $25 - 50 
+106,"Goodwill Industries International, Inc.",www.goodwill.org,thrift stores, $25 - 50 
+114,Lee Jeans,www.lee.com/LEE_STORE_US/en_US/home.html,jeans & other clothing, $25 - 50 
+118,"National Vision, Inc.",www.nationalvision.com,retail vision centers, $25 - 50 
+130,Saks Incorporated,www.saksincorporated.com,upscale department stores, $25 - 50 
+132,"Sephora USA, LLC",www.sephora.com,cosmetics & beauty supplies, $25 - 50 
+133,TaylorMade-adidas,www.taylormadegolf.com,golf equipment & apparel, $25 - 50 
+134,The Pep Boys,www.pepboys.com,retail automotive parts, $25 - 50 
+139,Wakefern Food Corporation,wakefern.shoprite.com/,food wholesaler, $25 - 50 
+142,99 Cents Only Stores,www.99only.com,general merchandise stores, $10 - 25 
+144,"Albertsons, LLC",www.albertsons.com,grocery & drug stores, $10 - 25 
+148,Anna's Linens,www.annaslinens.com,home textiles, $10 - 25 
+154,Burberry Limited,www.burberryplc.com,men & women's fashion, $10 - 25 
+155,Central Garden & Pet Company,www.central.com,"lawn, garden, pet supplies", $10 - 25 
+157,CITGO Petroleum Corporation,www.citgo.com,petroleum products, $10 - 25 
+165,"Essence Communications, Inc.",www.essence.com,"periodicals, music, fashion, lifestyle", $10 - 25 
+166,"Express, LLC",www.express.com,women & men's apparel & accessories, $10 - 25 
+170,"Fred Meyer, Inc.",www.fredmeyer.com,grocery & drug stores, $10 - 25 
+171,"Fry's Food & Drug Stores, Inc.",www.frysfood.com,grocery store chain, $10 - 25 
+174,"Giant Food, Inc.",www.giantfood.com,grocery stores, $10 - 25 
+175,GoldToeMoretz LLC,www.goldtoemoretz.com,socks, $10 - 25 
+178,"Hanover Direct, Inc.",www.hanoverdirect.com,catalog retailer, $10 - 25 
+181,"Hy-Vee, Inc.",www.hy-vee.com,supermarkets, $10 - 25 
+184,"Jockey International, Inc.",www.jockey.com,"underwear, socks, t-shirts", $10 - 25 
+185,JustFab,www.justfab.com,online retailer, $10 - 25 
+188,"Marc Jacobs International, LLC",www.marcjacobs.com,men's & women's apparel & accessories, $10 - 25 
+189,"Mathis Brothers Furniture Co., Inc.",www.mathisbrothers.com,furniture chain, $10 - 25 
+191,"Montblanc North America, LLC",www.montblanc.com,"fine pens, watches, accessories", $10 - 25 
+193,"Nebraska Furniture Mart, Inc.",www.nfm.com,housewares & furniture, $10 - 25 
+199,Ralph's Grocery Company,www.ralphs.com,grocery stores, $10 - 25 
+206,"Stein Mart, Inc.",www.steinmart.com,department stores, $10 - 25 
+208,The Jones Group Inc.,www.jny.com,women's clothing, $10 - 25 
+211,Total Wine & More,www.totalwine.com/,spirits retail, $10 - 25 
+212,"Trader Joe's Company, Inc.",www.traderjoes.com,grocery chain, $10 - 25 
+215,Versace USA,www.versace.com,clothing and accessories, $10 - 25 
+218,"Wawa, Inc.",www.wawa.com,convenience store chain, $10 - 25 
+219,"Williams-Sonoma, Inc.",www.williams-sonomainc.com,"home, kitchen, bath", $10 - 25 
+221,ABC Warehouse Group,www.abcwarehouse.com,appliances & electronics stores, $5 - 10 
+227,"Baer's Furniture Company, Inc.",www.baers.com,furniture retailer, $5 - 10 
+230,"Birkenstock Distribution USA, Inc.",www.birkenstockusa.com,footwear, $5 - 10 
+235,"Conn's, Inc.",www.conns.com,electronic & appliance store chain, $5 - 10 
+240,"Daily Grommet, Inc.",www.dailygrommet.com,online shopping, $5 - 10 
+244,"Dooney & Bourke, Inc.",www.dooney.com,handbags & accessories, $5 - 10 
+249,"Fiesta Mart, Inc.",www.fiestamart.com,ethnic food stores, $5 - 10 
+250,"Fresh & Easy Neighborhood Market, Inc.",www.freshandeasy.com,grocery store chain, $5 - 10 
+252,"Harry Winston, Inc.",www.harrywinston.com,fine watches & jewelry stores, $5 - 10 
+253,Helzberg Diamonds,www.helzberg.com,retail jewelry stores, $5 - 10 
+256,Innovative Mattress Solutions,www.sleeponthebest.com,mattress stores, $5 - 10 
+257,"J. Crew Group, Inc.",www.jcrew.com,clothing store chain, $5 - 10 
+263,Levin Furniture Inc,www.levinfurniture.com/,furniture stores, $5 - 10 
+264,Max Mara USA,www.maxmarafashiongroup.com/en/home,fashions, $5 - 10 
+265,Metropolitan Transport Authority,www.mta.info,public transportation system, $5 - 10 
+266,Not Your Daughter's Jeans,www.notyourdaughtersjeans.com,apparel designed for Women age 35+, $5 - 10 
+267,QuikTrip Corporation,www.quiktrip.com,gas stations / convenience stores, $5 - 10 
+270,"Red Gold, Inc.",www.redgold.com,tomato products, $5 - 10 
+271,"Red Wing Shoe Company, Inc.",www.redwingshoe.com,"shoes, work boots", $5 - 10 
+272,Ross-Simons,www.ross-simons.com,"housewares, jewelry", $5 - 10 
+273,Save Mart Supermarkets,www.savemart.com/,supermarket chain, $5 - 10 
+274,Scheels All Sports Company,www.scheelssports.com,sporting goods retailer, $5 - 10 
+275,"Sheetz, Inc.",www.sheetz.com,gas stations & convenience stores, $5 - 10 
+277,"ShopKo Stores, Inc.",www.shopko.com,general merchandise, $5 - 10 
+278,"Sport Clips, Inc.",www.sportclips.com,sports-themed barbershops, $5 - 10 
+279,"Sprouts Farmers Market, LLC",www.sprouts.com,grocery stores, $5 - 10 
+281,"Swatch Watch, USA",www.swatch.com,watches, $5 - 10 
+283,"The Finish Line, Inc.",www.finishline.com,athletic footwear & apparel, $5 - 10 
+285,The TruGreen Companies ,www.trugreen.com,lawn care product application, $5 - 10 
+289,Williamson-Dickie Manufacturing Co.,www.dickies.com,"pants, jeans", $5 - 10 
+290,Winmark Corporation,www.winmarkcorporation.com,multi outlet retailer, $5 - 10 
+292,"Zazzle.com, Inc.",www.zazzle.com,custom T-shirts & accessories, $5 - 10 
+294,Allen-Edmonds Shoe Corporation,www.allenedmonds.com,men's shoes & accessories, $3 - 5 
+297,Blair Corporation,www.blair.com,apparel & home decor retailer, $3 - 5 
+299,"Charming Shoppes, Inc.",www.charmingshoppes.com,women's clothing chain & gifts, $3 - 5 
+300,CustomInk,www.customink.com,custom apparel & specialty items, $3 - 5 
+302,Diesel Jeans,www.diesel.com,jeans, $3 - 5 
+304,Fantastic Sams International,www.fantasticsams.com,hair salons, $3 - 5 
+306,FGX International,www.fgxi.com,sunglasses, $3 - 5 
+307,"Forever 21, Inc.",www.forever21.com,women's & junior's apparel, $3 - 5 
+309,"Harris Teeter, Inc.",www.harristeeter.com,grocery chain, $3 - 5 
+311,"Ingles Markets, Inc. ",www.ingles-markets.com,grocery chain, $3 - 5 
+312,"Interstate Battery System of America, Inc.",www.ibsa.com,automotive products / parts manufacturer, $3 - 5 
+313,LifeProof,www.lifeproof.com,mobile technology cases & accessories, $3 - 5 
+314,"Lifetouch, Inc.",www.lifetouch.com,portrait photographers, $3 - 5 
+315,"Love's Travel Stops & Country Stores, Inc.",www.loves.com,"travel centers, convenience stores", $3 - 5 
+316,"Lucky Brand Dungarees, Inc.",www.luckybrandjeans.com,"casual clothing, accessories", $3 - 5 
+317,"Marchon Eyewear, Inc.",www.marchon.com,eye wear, $3 - 5 
+318,"Merle Norman Cosmetics, Inc. ",www.merlenorman.com,cosmetics & body care studios, $3 - 5 
+321,"Paul Stuart, Inc.",www.paulstuart.com,clothing, $3 - 5 
+323,"Quality Food Centers, Inc.",www.qfconline.com,retail food stores, $3 - 5 
+325,"Quiksilver, Inc.",www.quiksilver.com,athletic apparel, $3 - 5 
+326,"RaceTrac Petroleum, Inc.",www.racetrac.com,convenience stores & gas stations, $3 - 5 
+328,Samsonite Corporation,www.samsonite.com,luggage, $3 - 5 
+329,"ShopRite Supermarkets, Inc.",www.shoprite.com,supermarkets, $3 - 5 
+330,"Smith's Food & Drug Centers, Inc.",www.smithsfoodanddrug.com,grocery & drug stores, $3 - 5 
+332,Timex Corporation,www.timex.com,watches, $3 - 5 
+335,Tractor Supply Company,www.tractorsupplyco.com,farm equipment stores, $3 - 5 
+338,Wegmans Food Markets,www.wegmans.com,grocery stores, $3 - 5 
+339,"Weis Markets, Inc.",www.weis.com,grocery store chain, $3 - 5 
+340,84 Lumber Company,www.84lumber.com,building products retailer, $1 - 3 
+341,"A.C. Moore Arts & Crafts, Inc.",www.acmoore.com,arts & crafts retailers, $1 - 3 
+346,"Armstrong Garden Centers, Inc.",www.armstronggarden.com,garden centers, $1 - 3 
+350,"Bashas, Inc.",www.bashas.com,supermarkets, $1 - 3 
+351,"Bath & Body Works, Inc.",www.bathandbodyworks.com,body & hair care products, $1 - 3 
+352,Benetton USA Corporation,www.benetton.com,adult & children's apparel, $1 - 3 
+353,"Big Y Foods, Inc.",www.bigy.com,supermarket chain, $1 - 3 
+354,"Birks Group, Inc.",www.birksandmayors.com,jewelry store chain, $1 - 3 
+355,"Boot Barn, Inc.",www.bootbarn.com,boot & work wear retailer, $1 - 3 
+358,Bushnell Performance Optics,www.bushnellperformanceoptics.com,"binoculars, telescopes, rangefinders, sports optics", $1 - 3 
+359,Cato Corporation,www.catocorp.com,retail clothing stores, $1 - 3 
+361,"Charming Charlie, Inc.",www.charmingcharlie.com,fashion jewelry & accessories, $1 - 3 
+363,Cintas Corporation,www.cintas-corp.com,uniform manufacturers, $1 - 3 
+366,"Cumberland Farms, Inc.",www.cumberlandfarms.com,convenience stores, $1 - 3 
+367,"Devanlay USA, Inc.",www.lacoste-usa.com,clothing retailer, $1 - 3 
+368,"DGSE Companies, Inc.",www.dgse.com,"Gold, silver exchange retailer", $1 - 3 
+370,Dollar Tree Stores,www.dollartree.com,discount variety stores, $1 - 3 
+372,E. Gluck Corporation,www.egluck.com,watch manufacturer, $1 - 3 
+373,Ecco USA,www.ecco.com,shoes, $1 - 3 
+374,Electronic Express,www.electronicexpress.com,electronics retailer, $1 - 3 
+375,"Etienne Aigner Group, Inc.",www.etienneaigner.com,leather goods retail, $1 - 3 
+377,Fink's Jewelers,www.finks.com,jewelry stores, $1 - 3 
+378,For Eyes Optical,www.foreyes.com,eye care, $1 - 3 
+381,Grand Home Furnishings Company,www.grandhomefurnishings.com/,furniture, $1 - 3 
+384,"Hancock Fabrics, Inc.",www.hancockfabrics.com,"fabrics, sewing tools", $1 - 3 
+385,Hannaford Brothers ,www.hannaford.com,supermarket chain, $1 - 3 
+386,IGA Inc.,www.igainc.com,grocery stores, $1 - 3 
+387,"INVISTA, Inc.",www.invista.com,performance fabrics, $1 - 3 
+388,"J.W. Childs Associates, L.P.",www.jwchilds.com,private equity investment firm, $1 - 3 
+389,"Joe's Jeans, Inc.",www.joesjeans.com,apparel & accessories, $1 - 3 
+391,"Kwik Trip, Inc.",www.kwiktrip.com,gas stations & convenience stores, $1 - 3 
+392,"LeSportsac, Inc.",www.lesportsac.com,backpacks & luggage, $1 - 3 
+393,"Lil Drug Store Products, Inc.",www.lildrugstore.com,drug wholesaler, $1 - 3 
+394,Lund Food Holdings,www.lundsmarket.com,supermarkets, $1 - 3 
+395,Mall of America,www.mallofamerica.com,mall, $1 - 3 
+396,Marc Glassman,www.marcs.com,"discount stores, pharmaceuticals", $1 - 3 
+397,"Marmot Mountain, LLC",www.marmot.com,outdoor recreational equipment, $1 - 3 
+398,"Michael Stars, Inc.",www.michaelstars.com,women's apparel & accessories, $1 - 3 
+400,"Navarro Discount Pharmacies, Inc.",www.navarro.com,pharmacies, $1 - 3 
+402,New York & Company,www.nyandcompany.com,women's clothing stores, $1 - 3 
+404,Oscar de la Renta,www.oscardelarenta.com,"clothing, fragrances & accessories", $1 - 3 
+408,Paul Frank Industries,www.paulfrank.com,clothing & apparel stores, $1 - 3 
+410,"Performance Bike, Inc.",www.performancebike.com,bikes & equipment, $1 - 3 
+412,"Piggly Wiggly Carolina Company, Inc.",www.thepig.net,grocery store chain, $1 - 3 
+415,"Raley's, Inc. ",www.raleys.com,supermarket chain, $1 - 3 
+416,"Reeds Jewelers, Inc.",www.reeds.com,jewelry stores, $1 - 3 
+417,"Richemont North America, Inc. ",www.richemont.com/,luxury goods manufacturer, $1 - 3 
+418,"Road Runner Sports, Inc.",www.roadrunnersports.com,sporting apparel, $1 - 3 
+420,Schnuck Markets Inc.,www.schnucks.com,supermarket chain, $1 - 3 
+422,"Scott Kay, Inc.",www.scottkay.com,jewelry, $1 - 3 
+423,"Sedano's Supermarkets, Inc.",www.sedanos.com,supermarkets, $1 - 3 
+425,"Sierra Trading Post, Inc.",www.sierratradingpost.com,clothing, $1 - 3 
+426,"Silpada Designs, Inc.",www.silpada.com,sterling silver jewelry, $1 - 3 
+427,"Smart & Final, Inc.",www.smartandfinal.com,warehouse grocery stores, $1 - 3 
+428,"Smith Sport Optics, Inc. ",www.smithoptics.com,"goggles, sunglasses & accessories", $1 - 3 
+429,SpartanNash Company,www.spartanstores.com,grocery wholesaler & retailer, $1 - 3 
+430,Stew Leonard's,www.stewleonards.com,supermarket chain, $1 - 3 
+433,"The Children's Place Retail Stores, Inc.",www.childrensplace.com,children's clothing store chain, $1 - 3 
+437,Tuesday Morning Corporation,www.tuesdaymorning.com,discount home decor stores, $1 - 3 
+440,"Volcom, Inc.",www.volcom.com,surf/skate apparel, $1 - 3 
+441,"Von Maur, Inc.",www.vonmaur.com,department stores, $1 - 3 
+442,"West Marine, Inc.",www.westmarine.com,boat supplies, $1 - 3 
+443,A.T. Cross Company,www.cross.com,writing instruments & eyeglasses, $750k - 1 
+445,Alienware Corporation,www.alienware.com,computers, $750k - 1 
+447,"Campmor, Inc.",www.campmor.com,outdoor equipment retailer, $750k - 1 
+453,Kahala Corporation,www.kahalacorp.com,restaurant franchiser, $750k - 1 
+454,"King Kullen Grocery, Inc.",www.kingkullen.com,supermarkets, $750k - 1 
+455,"Pike Nurseries, Inc.",www.pikenursery.com,nursery garden products, $750k - 1 
+457,Smith & Wesson Holding Corporation,www.smith-wesson.com,"firearms, accessories & clothing", $750k - 1 
+460,Super Supplements,www.SuperSup.com,vitamin retailer, $750k - 1 
+461,Tops Markets LLC,www.topsmarkets.com,grocery stores, $750k - 1 
+462,"W.L. Gore & Associates, Inc.",www.gore.com,advanced technology fabrics & products, $750k - 1 
+463,"Wayfair, LLC",www.wayfair.com,internet retailer, $750k - 1 
+464,"Wet Seal, Inc.",www.wetsealinc.com,casual clothing stores, $750k - 1 
+465,"180s, LLC",www.180s.com,performance apparel,Less than $750K
+466,479 Popcorn,www.479popcorn.com,premium artisan popcorn,Less than $750K
+467,"5.11, Inc.",www.511tactical.com/,safety & performance products & apparel,Less than $750K
+468,80sTees.com,www.80stees.com,t-shirt manufacturer & distributor,Less than $750K
+469,"A & E Stores, Inc.",www.aestores.com,clothing stores,Less than $750K
+470,"Aaron Brothers, Inc.",www.aaronbrothers.com,arts & crafts retailer,Less than $750K
+471,"abc distributing, LLC",www.abcdistributing.com,retail catalogs,Less than $750K
+472,ABC Fine Wine & Spirits,www.abcfws.com,liquor stores,Less than $750K
+474,ABRA Auto Body & Glass,www.abraauto.com,auto body shops,Less than $750K
+475,"Acuity Brands, Inc.",www.acuitybrands.com,lighting & specialty products,Less than $750K
+476,Adrenalina,www.adrenalinastore.com,extreme sports store,Less than $750K
+477,"AeroGroup International, Inc. ",www.aerosoles.com,shoes,Less than $750K
+478,Affiliated Foods Incorporated,www.afiama.com,grocery distribution cooperative,Less than $750K
+480,"Ahold USA, Inc.",www.ahold.com,grocery stores,Less than $750K
+482,Akoo Clothing,www.azzuredenim.com,apparel,Less than $750K
+483,"Al & Ed's Autosound, LLC",www.al-eds.com,"automotive products / parts manufacturer, audio",Less than $750K
+484,"ALCO Stores, Inc.",www.alcostoresinc.com,discount retail goods,Less than $750K
+485,"Alex Lee, Inc.",www.alexlee.com,holding company,Less than $750K
+486,"Alibris, Inc.",www.alibris.com,"used books, movies & music",Less than $750K
+487,"Allegra Network, LLC",www.allegranetwork.com,copy centers,Less than $750K
+488,Allstar Products Group,www.allstarmg.com,consumer products,Less than $750K
+490,Alor International / CHARRIOL USA,www.charriolusa.com,jewelry,Less than $750K
+492,Alpha Shirt Company,www.alphashirt.com,sportswear distributor,Less than $750K
+494,"Amerex USA, Inc.",www.amerexgroup.com,outerwear,Less than $750K
+495,American Achievement Corporation,www.cbi-rings.com,commemoration products,Less than $750K
+497,"American Recreation Products, Inc.",www.wenzelco.com,recreational products,Less than $750K
+499,Amoeba Music,www.amoebamusic.com,independent music store,Less than $750K
+500,Amoena USA Corporation,www.us.amoena.com,breast surgery apparel,Less than $750K
+501,"Andin International, Inc.",www.andin.com,jewelry,Less than $750K
+502,"Ann & Hope, Inc.",www.curtainandbathoutlet.com,outlet stores,Less than $750K
+503,"ANVIL Knitwear, Inc.",www.anvilknitwear.com,clothing manufacturer,Less than $750K
+505,"Arden Group, Inc.",www.ardengroupinc.com/,grocery store holding company,Less than $750K
+507,"Arizona Mail Order Company, Inc.",www.oldpueblotraders.com,"mail-order catalog, apparel",Less than $750K
+509,Ashley Stewart,www.ashleystewart.com,womens clothing,Less than $750K
+510,"Associated Food Stores, Inc.",www.afstores.com,wholesale supermarket stores,Less than $750K
+511,Avelle,www.bagborroworsteal.com,accessories rental ,Less than $750K
+512,Avenues In Leather,www.avenuesinleather.com,leather products,Less than $750K
+514,"Bakers Footwear Group, Inc.",www.bakersshoes.com,women's footwear retailer,Less than $750K
+516,Baroni Designs,www.baronidesigns.com/,"jewelry designer, seller",Less than $750K
+518,"Bauhaus USA, Inc.",www.bauhaususa.com,furniture,Less than $750K
+519,"Baume & Mercier, Inc.",www.baume-and-mercier.com,watches,Less than $750K
+521,Beauty Brands Inc,www.beautybrands.com,salon & spa retail store,Less than $750K
+523,"Bell & Ross, Inc.",www.bellross.com,watches,Less than $750K
+525,"Bernard Chaus, Inc.",www.bernardchaus.com,clothing designer,Less than $750K
+526,"Bernardo Fashions, LLC",www.bernardofashions.com,apparel,Less than $750K
+527,"BFS Retail & Commercial Operations, LLC",www.bfmastercare.com,"automotive products / parts manufacturer, tires",Less than $750K
+528,BI Incorporated,www.bi.com,electronic monitoring & tracking devices,Less than $750K
+529,"Bi-Lo, LLC",www.bi-lo.com,grocery chain,Less than $750K
+530,Bianchi International,www.bianchi-intl.com,"holsters, duty belts, & accessories",Less than $750K
+531,BIDZ.com Inc.,www.bidz.com,online retailer of jewelry,Less than $750K
+532,Big Dog Sportswear,www.bigdogs.com,family clothing stores,Less than $750K
+533,Big Dog's Hospitality Group,www.bdhginc.com,casual dining restaurant,Less than $750K
+534,"Bill Blass, Group",www.billblass.com,clothing,Less than $750K
+538,BluBlocker Corporation,www.blublocker.com,eye care & optical,Less than $750K
+540,"Bob's Stores, Inc.",www.bobstores.com,clothing stores,Less than $750K
+542,"Bonitas International, LLC",www.bonitasinternational.com,beaded jewelry,Less than $750K
+544,"Books-A-, Inc.",www.booksa.com,bookstores,Less than $750K
+547,Briggs & Riley Travelware,www.briggs-riley.com,luggage,Less than $750K
+548,Bristol Farms ,www.bristolfarms.com,supermarkets,Less than $750K
+549,Broder Brothers Company,www.broderbros.com,sportswear distributor,Less than $750K
+550,"Brookshire Brothers, LTD",www.brookshirebrothers.com,food & pharmacy stores,Less than $750K
+551,Brookshire's Grocery Company,www.brookshires.com,grocery store chain,Less than $750K
+552,"Bruno Magli America, Inc.",shop.brunomagli.com,footwear & accessories,Less than $750K
+553,"Buff, Inc.",www.buffusa.com,multifunctional headwear,Less than $750K
+554,Bulgari Corporation of America,www.bulgari.com,watches & fine jewelry,Less than $750K
+555,Bullard Company,www.bullard.com,safety products,Less than $750K
+556,Burton Snowboards,www.burton.com,snowboard & equipment manufacturer,Less than $750K
+557,Butera Market,www.buteramarket.com,grocery store chain,Less than $750K
+559,"C&K Market, Inc.",www.ckmarket.com,grocery stores,Less than $750K
+560,"C.F. Martin & Co., Inc.",www.mguitar.com,musical instruments,Less than $750K
+561,"Cache, Inc.",www.cache.com,women's specialty retailer,Less than $750K
+562,CafePress.com,www.cafepress.com,e-commerce services,Less than $750K
+563,"Camping World, Inc.",www.campingworld.com,RV & outdoor camping accessories,Less than $750K
+566,Carson Pirie Scott & Company,www.carsons.com,traditional clothing stores,Less than $750K
+567,Carter Lumber Company,www.carterlumber.com,lumber & home improvement retailer,Less than $750K
+569,Century 21 Department Stores,www.c21stores.com,online discount retailer,Less than $750K
+571,Chamilia,www.chamilia.com,personalized accessories,Less than $750K
+573,"Charles David of California, Inc. ",www.charlesdavid.com,high-fashion women's shoes,Less than $750K
+574,Cherokee Group,www.thecherokeegroup.com,casual clothing & accessories,Less than $750K
+575,"Chicco USA, Inc.",www.chiccousa.com,baby products,Less than $750K
+577,"Circle K Stores, Inc.",www.circlek.com,convenience stores,Less than $750K
+578,"Circle K Stores, Inc. - Arizona Region",www.circlek.com,gas & convenience stores,Less than $750K
+579,"Circle K Stores, Inc. - Florida & Gulf Region",www.circlek.com,gas & convenience stores,Less than $750K
+580,"Circle K Stores, Inc. - Midwest Region",www.circlekmidwest.com,gas & convenience stores,Less than $750K
+581,"Circle K Stores, Inc. - Southeast Division",www.circlek.com,gas & convenience stores,Less than $750K
+582,"Circle K Stores, Inc. - West Coast Business Unit",www.circlek.com,gas & convenience stores,Less than $750K
+583,"Citarella, Inc.",www.citarella.com,gourmet grocery stores,Less than $750K
+587,"Coborn's, Inc.",www.cobornsinc.com,"food mart, liquor stores",Less than $750K
+590,"Collectors Universe, Inc.",www.collectors.com,Personal and professional collectors' organization,Less than $750K
+593,Consolidated Shoe,www.consolidatedshoe.com,shoes,Less than $750K
+594,"Cost-U-Less, Inc.",www.costuless.com,warehouse stores,Less than $750K
+595,"Crayola, LLC",www.crayola.com,children's art products,Less than $750K
+598,Crutchfield Corporation,www.crutchfield.com,electronics retailer,Less than $750K
+600,Custom Chrome,www.customchrome.com,automotive products / parts manufacturer,Less than $750K
+601,"Cutter & Buck, Inc.",www.cutterbuck.com,golf sportswear,Less than $750K
+603,Dakine,www.dakine.com,sporting goods,Less than $750K
+604,Dan Post Company,www.danpostboots.com,footwear,Less than $750K
+605,"Dan's Supreme Super Markets, Inc.",www.danssupreme.com,supermarkets,Less than $750K
+606,"Danskin, Inc.",www.danskin.com,women's sportswear,Less than $750K
+608,DC Shoe Co. USA,www.dcshoes.com,shoes & skateboard accessories,Less than $750K
+609,"Dean & DeLuca, Inc.",www.deandeluca.com,"fine food, kitchenware, wine, coffee retailer",Less than $750K
+611,"deBoulle Diamond & Jewelry, Inc.",www.deboulle.com,watches & fine jewelry,Less than $750K
+617,"Demoulas Super Markets, Inc.",,supermarkets,Less than $750K
+619,"Deuter USA, Inc.",www.deuterusa.com,outdoor gear,Less than $750K
+620,Diamond Pharmacy Services,www.diamondpharmacy.com,"pharmacy, medical services",Less than $750K
+621,"Dierbergs Markets, Inc.",www.dierbergs.com,grocery stores,Less than $750K
+622,"Discount Drug Mart, Inc.",www.discount-drugmart.com,drugstore chain,Less than $750K
+623,Disney Store of North America,www.disneystore.com,"character-based merchandise, retail stores",Less than $750K
+624,Do It Best Corp.,www.doitbestcorp.com,hardware & building products,Less than $750K
+625,"Donna Karan International, Inc.",www.donnakaran.com,women's fashion,Less than $750K
+627,"Drs. Foster & Smith, Inc.",www.drsfostersmith.com,pet supplies,Less than $750K
+628,"DSW, Inc.",www.dswshoe.com,discount shoe retailer,Less than $750K
+629,"Duane Reade, Inc.",www.duanereade.com,drug store chain,Less than $750K
+631,"E-Z Mart Stores, Inc.",www.ezmart.com,convenience stores,Less than $750K
+632,"Earth Fare, Inc.",www.earthfare.com,grocery chain,Less than $750K
+634,eCampus.com,www.ecampus.com,general info site,Less than $750K
+635,"Electric Visual Evolution, LLC",www.electricvisual.com,sunglasses & eyewear accessories,Less than $750K
+636,Elie Tahari,www.elietahari.com,apparel,Less than $750K
+638,"Emerging Vision, Inc.",www.emergingvision.com,optical & vision care centers,Less than $750K
+640,Entertainment Earth Inc.,www.entertainmentearth.com,action figure & collectible retailer,Less than $750K
+641,Ergobaby,http://store.ergobaby.com,infant carrying products,Less than $750K
+642,"ESCADA USA, Inc.",www.escada.com,upscale fashions,Less than $750K
+644,ExOfficio,www.exofficio.com,outdoor & travel clothing company,Less than $750K
+645,"Fairway & Greene, Ltd.",www.fairwayandgreene.com,golf apparel,Less than $750K
+646,"Family Christian Stores, Inc.",www.familychristian.com,"christian books, gifts",Less than $750K
+647,FB Legacy,www.fblegacy.com/,"clothing, sportswear",Less than $750K
+650,Five Below,www.fivebelow.com/,vaule retailer,Less than $750K
+651,"Flying J, Inc.",www.flyingj.com,truck stops,Less than $750K
+652,Flynn & O'Hara,www.roseuniforms.com,school uniforms,Less than $750K
+653,Follett Higher Education Group,www.fheg.follett.com,bookstores,Less than $750K
+655,"Fox Racing, Inc.",www.foxracing.com,apparel & accessories,Less than $750K
+656,"Franchise Concepts, Inc.",www.deckthewalls.com,prints & frames,Less than $750K
+657,Franklin Covey Co.,www.franklincovey.com,planners & organizers,Less than $750K
+658,"Franklin Sports, Inc.",www.franklinsports.com,athletic equipment,Less than $750K
+659,"Franks Supply Company, Inc.",www.franks-supply.com,equipment supply,Less than $750K
+661,French Connection,www.fcuk.com/us,designer clothing,Less than $750K
+662,"Fresh Concepts, LLC",www.freshcity.com,fast casual restaurant,Less than $750K
+663,"Fresh Market, Inc.",www.thefreshmarket.net,specialty grocery stores,Less than $750K
+667,"Gamer Doc, Inc.",www.gamerdoc.com,video game retailer,Less than $750K
+668,"Garan, Inc.",www.garanimals.com/,clothing manufacturer,Less than $750K
+669,Gate Petroleum Company,www.gatepetro.com,"gas stations, real estate",Less than $750K
+674,"Global Franchise Group, LLC",www.globalfranchise.com,restaurant franchiser,Less than $750K
+676,"Gordon Brothers Group, LLC",www.gordonbrothers.com,investment services,Less than $750K
+677,Gordon Food Service,www.gfs.com,bulk foods,Less than $750K
+678,Greg Norman Collection,www.shark.com/gregnormancollection,men's apparel,Less than $750K
+680,Gymboree Corporation,www.gymboree.com,children's clothes,Less than $750K
+682,"Haas Outdoors, Inc. / Mossy Oak Outdoor",www.mossyoak.com,hunting apparel & accessories,Less than $750K
+684,Hamilton Collection,www.collectiblestoday.com,"dolls, plates, collectibles",Less than $750K
+686,"Hampshire Designers, Inc.",www.hamp.com,sweaters,Less than $750K
+688,Harbor Footwear Group,www.gbxshoe.com,shoes,Less than $750K
+689,"Harps Food Stores, Inc.",www.harpsfood.com,"retail groceries, dry goods",Less than $750K
+690,Harveys Supermarkets,www.harveys-supermarkets.com,local supermarket chain,Less than $750K
+691,"Hastings Entertainment, Inc.",www.gohastings.com,multimedia superstores,Less than $750K
+692,"Hat World, Inc. / Lids",www.hatworld.com,hats,Less than $750K
+693,"Hatco, Inc.",www.resistolhat.com,hat manufacturing,Less than $750K
+695,"Head USA, Inc.",www.head.com,athletic equipment & apparel,Less than $750K
+696,"Healthy Fast Food, Inc.",www.u-swirl.com,quick serve restaurant,Less than $750K
+697,"Heelys, Inc.",www.heelys.com,shoes with wheels,Less than $750K
+700,"Hillerich & Bradsby Company, Inc.",www.slugger.com,baseball bats & golf clubs,Less than $750K
+701,Holiday Companies,www.holidaystationstores.com,gas station & convenience stores,Less than $750K
+702,"Hollywood Tans, LLC",www.hollywoodtans.com,tanning salons,Less than $750K
+703,"Homeland Stores, Inc.",www.homelandstores.com,grocery store chain,Less than $750K
+705,"Horny Toad Activewear, Inc.",www.hornytoad.com,apparel,Less than $750K
+706,Hot Stuff Foods,www.hotstufffoods.com,convenience store food,Less than $750K
+708,"Houchens Industries, Inc.",www.houchensindustries.com,grocery stores,Less than $750K
+710,"Hunt Brothers Pizza, LLC",www.huntbrotherspizza.com/,quick serve restaurant,Less than $750K
+711,"Hunter Mfg, LLP",www.huntermfg.com,licensed sports consumer products,Less than $750K
+713,Icebreaker,www.icebreaker.com,outdoor apparel,Less than $750K
+714,Incase Designs Corporation,goincase.com,carrying case manufacturer,Less than $750K
+716,"Inserra Supermarkets, Inc.",www.shoprite.com,supermarkets,Less than $750K
+717,Intermix Holdco Inc.,www.intermixonline.com/,women's apparel & accessories,Less than $750K
+718,"International Textiles Group, Inc",www.itg-global.com,"denim manufacturer, home furnishings fabrics, textiles, carpet, yarn",Less than $750K
+719,IWC North America,www.iwc.com,luxury goods manufacturer,Less than $750K
+720,J&D's Foods,www.jdfoods.net,bacon-flavored foodstuffs,Less than $750K
+721,J. Barbour & Sons Ltd,www.barbour.com,casual & outdoor clothing,Less than $750K
+725,"Jaclyn, Inc.",www.jaclyninc.com,apparel-clothing,Less than $750K
+726,"JanSport, Inc.",www.jansport.com,backpacks & book bags,Less than $750K
+727,"Jessica McClintock, Inc.",www.jessicamcclintock.com,perfume & clothing,Less than $750K
+728,Jewel-Osco,www.jewelosco.com,grocery & drug stores,Less than $750K
+733,JSSI,www.lugz.com,athletic footwear,Less than $750K
+734,Junonia Ltd.,www.junonia.com,plus-sized women's apparel retailer,Less than $750K
+736,"K-Swiss, Inc.",www.kswiss.com,fitness footwear,Less than $750K
+737,"K-VA-T Food Stores, Inc.",www.foodcity.com,supermarkets ,Less than $750K
+738,K2 Sports,www.k2sports.com,outdoor apparel & accessories ,Less than $750K
+739,"Karmaloop, LLC",www.karmaloop.com,online apparel retailer,Less than $750K
+740,"KAVU, Inc.",www.kavu.com,outdoor clothing,Less than $750K
+741,Kayser - Roth Corporation ,www.kayser-roth.com,hosiery & socks,Less than $750K
+744,"Kelly-Moore Paint Company, Inc.",www.kellymoore.com,paint manufacturer & retailer,Less than $750K
+745,"Kemistre Eight, LLC",www.akademiks.com,apparel & accessories,Less than $750K
+746,"Kerr Drug, Inc.",www.kerrdrug.com,drug stores,Less than $750K
+749,"King Soopers, Inc.",www.kingsoopers.com,grocery stores,Less than $750K
+750,KJUS USA,www.kjus.com,sports apparel,Less than $750K
+752,"Kwik Shop, Inc.",www.kwikshop.com,convenience store chain,Less than $750K
+753,L'Amy America,www.lamygroup.com,sunglasses & prescription eyewear,Less than $750K
+755,La Curacao,www.lacuracao.net,department stores,Less than $750K
+756,"La Jolla Group, Inc.",www.lajollagroup.com,surf apparel,Less than $750K
+757,"LaCrosse Footwear, Inc.",www.lacrossefootwear.com,footwear,Less than $750K
+758,Lands' End Business Outfitters,www.landsend.com,branded corporate apparel,Less than $750K
+760,LAT Sportswear,www.latsportswear.com,accessories,Less than $750K
+763,LifeWay Christian Resources,www.lifeway.com,"Christian stores, publishing",Less than $750K
+764,Lillian Vernon Corporation,www.lillianvernon.com,mail-order retailer,Less than $750K
+766,Liquidation Channel,www.liquidationchannel.com/,jewelry auction website & show,Less than $750K
+768,LMC Right Start,www.rightstart.com,infant & children's products,Less than $750K
+770,"Longworth Industries, Inc.",www.polarmax.com,apparel manufacturer ,Less than $750K
+775,"M.J. Soffe Company, Inc.",www.soffe.com,sportswear,Less than $750K
+776,Mac-Gray Corporation,www.mac-gray.com,coin-operated washers & dryers,Less than $750K
+778,"Mamiye Brothers, Inc.",www.mamiye.com,children's & teen apparel,Less than $750K
+779,"Man-dell Food Stores, Inc.",none (7/09),supermarkets,Less than $750K
+781,"Marsh Supermarkets, Inc.",www.marsh.net,grocery store chain,Less than $750K
+782,"Marware, Inc.",www.marware.com,accessories,Less than $750K
+783,"Maui Jim, Inc.",www.mauijim.com,polarized sunglasses,Less than $750K
+786,MC Sports,www.mcsports.com,retail sports stores,Less than $750K
+787,McCoy Corporation ,www.mccoys.com,building supply centers,Less than $750K
+788,McNett Corporation,www.mcnett-outdoor.com,outdoor specialty products & sporting goods,Less than $750K
+789,"Medicine Shoppe International, Inc.",www.medshoppe.com,drug stores,Less than $750K
+790,"MexGrocer.com, LLC",www.mexgrocer.com,online grocery store,Less than $750K
+791,Micro Electronics,www.microelectronics.com,"computer stores, mail-order ",Less than $750K
+792,Mitchell & Ness ,www.mitchellandness.com,sports wear,Less than $750K
+793,"Mizuno Sports USA, Inc.",www.mizunousa.com,sporting equipment & apparel manufacturer,Less than $750K
+797,"mophie, Inc.",www.mophie.com,mobile technology cases & accessories,Less than $750K
+800,"Mountain Hardwear, Inc.",www.mountainhardwear.com,outdoor apparel & accessories,Less than $750K
+801,"Mounted Memories, Inc.",www.dreamscorp.com,sports memorabilia,Less than $750K
+802,"Munro & Company, Inc.",www.munroshoe.com,shoes,Less than $750K
+804,Musicnotes Inc.,www.musicnotes.com,online sheet music retailer,Less than $750K
+806,Nash Finch Company,www.nashfinch.com,grocery wholesaler & retailer,Less than $750K
+810,Neill Corporation,www.neill.net,manufactures hair care products & manages concept salons,Less than $750K
+811,Neiman Marcus Direct,www.neimanmarcus.com,catalog division,Less than $750K
+812,New England Footwear,www.newenglandfootwear.com,shoe manufacturer,Less than $750K
+813,"New Horizons Computer Learning Centers, Inc.",www.newhorizons.com,computer training centers,Less than $750K
+814,"Niemann Foods, Inc.",www.freshtraditions.com,grocery stores,Less than $750K
+815,"Nine West Group, Inc.",www.ninewest.com,women's shoes,Less than $750K
+818,"Norm Thompson Outfitters, Inc.",www.normthompson.com,apparel catalogs,Less than $750K
+819,North Carolina Mutual Drug Company,www.mutualdrug.com,drug stores,Less than $750K
+820,NuStar Energy Corporation,www.nustarenergy.com,"oil refining, convenience stores",Less than $750K
+822,Oliver Peoples,www.oliverpeoples.com,upscale designer eyeglasses,Less than $750K
+823,"Oneida, Ltd.",www.oneida.com,"dinnerware, flatware, crystal, cookware",Less than $750K
+824,Ontel Products Corporation,www.ontelproducts.com/index.html,as-seen-on tv products,Less than $750K
+827,"Orchard Supply Hardware, Inc.",www.osh.com,hardware supply stores,Less than $750K
+828,Orrefors,www.orrefors.us,art products,Less than $750K
+829,"OshKosh B'Gosh, Inc.",www.oshkoshbgosh.com,children's clothing & accessories,Less than $750K
+831,Outdoor Recreation Group,www.outdoorproducts.com,outdoor products,Less than $750K
+832,"Oxford Industries, Inc.",www.oxfordinc.com,clothing manufacturer,Less than $750K
+833,"Pantry, Inc.",www.thepantry.com,convenience store chain,Less than $750K
+834,Park Seed Company,www.parkseed.com,mail order gardening,Less than $750K
+835,"PCM, Inc.",www.pcm.com,PC & MAC equipment,Less than $750K
+837,Pearl Izumi,www.pearlizumi.com,clothing,Less than $750K
+838,"Pelle Pelle, Inc.",www.pellepellemb.com,leather jackets & sportswear,Less than $750K
+842,"Petland, Inc.",www.petland.com,pet stores,Less than $750K
+843,"Phoenix Footwear Group, Inc.",www.phoenixfootwear.com,shoe manufacturer,Less than $750K
+844,Piggly Wiggly Midwest,www.shopthepig.com,supermarkets,Less than $750K
+845,"Play N Trade Franchise, Inc.",www.playntrade.com,video game franchise,Less than $750K
+846,PLV Studio Inc,www.pourlavictoire.com/,specialty retailer,Less than $750K
+848,Prada New York,www.prada.com,upscale clothing & couturier,Less than $750K
+849,"Premier International Holdings, Inc.",www.gopremier.com,convenience store products,Less than $750K
+850,Price Chopper,www.pricechopper.com,supermarket,Less than $750K
+851,"PriceSmart, Inc.",www.pricesmart.com,general merchandise stores,Less than $750K
+852,"Prince Sports, Inc.",www.princesports.com,athletic equipment,Less than $750K
+853,"QST Industries, Inc.",www.qst.com,clothing components,Less than $750K
+854,"Quik Stop Markets, Inc.",www.quikstop.com,convenience stores,Less than $750K
+855,R.G. Barry Corporation,www.rgbarry.com,footwear,Less than $750K
+856,"Rack Room Shoes, Inc.",www.rackroomshoes.com,retail shoe stores,Less than $750K
+859,"Randa Accessories, LLC",www.randa.net,accessories & leather goods,Less than $750K
+860,"Rawlings Sporting Goods Company, Inc.",www.rawlings.com,athletic equipment,Less than $750K
+864,Reef Americas,www.reef.com,surf apparel,Less than $750K
+866,Renfro Corporation,www.renfro.com,apparel manufacturer,Less than $750K
+868,Retail Brand Alliance,,men's apparel,Less than $750K
+869,Richline Group,www.richlinegroup.com,fine jewelry manufacturer,Less than $750K
+872,"Rocawear, Inc.",www.rocawear.com,urban clothing,Less than $750K
+873,Rocket Dog Brands LLC,www.rocketdog.com,women's footwear,Less than $750K
+874,Rocky Brands,www.rockybrands.com/,"boots, shoes",Less than $750K
+875,Rocky Mountain Clothing Company,www.rockymountainclothing.com,western wear,Less than $750K
+876,Rodda Paint Company,www.roddapaint.com,paint,Less than $750K
+877,Rooster Group,www.roostergroup.com,leather goods & tool belts,Less than $750K
+879,Russell Corporation,www.russell-brands.com,sports clothing,Less than $750K
+880,Ryderz Compound,www.nofear.com,sports equipment & clothing,Less than $750K
+881,Safariland,www.safariland.com,"security systems, bullet resistant vests, backpacks",Less than $750K
+883,"Safilo USA, Inc.",www.safilousa.com,Luxury eyewear manufacturer and licenser,Less than $750K
+884,Saker Shop-rite,www.shoprite.com,supermarket chain,Less than $750K
+887,"Samuels Jewelers, Inc.",www.samuelsjewelers.com,retail jewelry stores,Less than $750K
+888,Sanuk,www.sanuk.com,footwear,Less than $750K
+890,Scott Sports USA,www.garmontusa.com,ski and outdoor apparel,Less than $750K
+891,SCP Pool Corporation,www.poolcorp.com,swimming pool supplies,Less than $750K
+892,"Sean John Clothing, Inc.",www.seanjohn.com,clothing,Less than $750K
+893,Seiko Corporation of America,www.seikousa.com,"consumer time-pieces, watches, clocks",Less than $750K
+894,Selective Eyewear Elements,www.seeeyewear.com,retail optics chain,Less than $750K
+897,"Shaw's Supermarkets, Inc.",www.shaws.com,grocery stores,Less than $750K
+899,"Shop 'N Save Foods, Inc.",www.shopnsave.com,warehouse stores,Less than $750K
+900,Shoppers Food Warehouse Corp.,www.shoppersfood.com,discount food stores,Less than $750K
+901,"Showa-Best Glove, Inc.",www.showabestglove.com,disposable gloves,Less than $750K
+902,"Shreve, Crump & Low",www.shrevecrumplow.com,"diamonds, gems, and silver",Less than $750K
+903,"Simon Property Group, Inc.",www.simon.com,own & manage malls,Less than $750K
+904,Simply Shops,www.simplyretailinc.com,healthcare retail,Less than $750K
+905,"Sir Speedy, Inc.",www.sirspeedy.com,retail printer,Less than $750K
+906,skinnyCorp LLC,www.skinnycorp.com,T-shirts,Less than $750K
+908,SmartWool,www.smartwool.com,sports apparel,Less than $750K
+910,Sneaker Villa,www.sneakervilla.com,apparel & shoe retailer,Less than $750K
+911,Sofft Shoe Company / Dexter Shoe Company,www.sofftshoes.com,women's footwear,Less than $750K
+912,Sole Technology,www.soletechnology.com,footwear & clothing,Less than $750K
+913,"Southern Tide, LLC",www.southerntide.com,apparel,Less than $750K
+914,"SouthPole, Inc.",www.southpole-usa.com,apparel,Less than $750K
+916,Speck Products,www.speckproducts.com,carrying case manufacturer,Less than $750K
+917,"Spencer Gifts, LLC",www.spencersonline.com/,novelty retailer,Less than $750K
+918,"Sportsman's Guide, Inc. ",www.sportsmansguide.com,athletic apparel & equipment,Less than $750K
+919,Spy Optics,www.spyoptic.com,sunglasses & goggles,Less than $750K
+920,"Spyder Active Sports, Inc.",www.spyder.com,outdoor sports apparel,Less than $750K
+921,"St. John Knits International, Inc.",www.sjk.com,women's apparel,Less than $750K
+924,"Sterling Jewelers, Inc.",www.sterlingjewelers.com,jewelry stores,Less than $750K
+925,Stewart's Shops Corporation,www.stewartsshops.com,convenience shops,Less than $750K
+926,"Stuart Weitzman, LLC",www.stuartweitzman.com,leather goods,Less than $750K
+927,Sun & Skin Care Research,www.opotion.com,skin products,Less than $750K
+928,Sunrise Brands,www.tags.com,private-label casual apparel,Less than $750K
+929,Superdry,www.superdry.com,apparel & fashion,Less than $750K
+930,Susser Holdings Corporation,www.susser.com,"convenience stores, gas stations",Less than $750K
+931,"Sutherland Lumber Company, LP",www.sutherlands.com,home improvement retailer,Less than $750K
+932,"Swank, Inc.",www.swankinc.com,fashion accessories,Less than $750K
+933,"Swarovski North America, Ltd.",www.swarovski.com,fine silver & crystal ,Less than $750K
+934,Sweetbay Supermarkets,www.sweetbaysupermarket.com,grocery chain,Less than $750K
+937,"Tandy Brands Accessories, Inc.",www.tandybrands.com,leather goods & accessories,Less than $750K
+940,"Targus, Inc.",www.targus.com,laptop computer cases & accessories,Less than $750K
+941,"Tasti D-Lite, LLC",www.tastidlite.com,fast casual restaurant,Less than $750K
+945,"The Buckle, Inc.",www.buckle.com,clothing ,Less than $750K
+946,"The Clarks Companies, N.A.",www.clarksusa.com,shoes & accessories,Less than $750K
+947,The Cockpit USA,www.cockpitusa.com,apparel & accessories,Less than $750K
+948,The Collegiate Licensing Company,www.clc.com,collegiate trademark licensing,Less than $750K
+949,The Dessy Group,www.dessy.com,formal wear manufacturer,Less than $750K
+950,"The Echo Design Group, Inc.",www.echodesign.com,accessories,Less than $750K
+952,The Halston Company,www.halston.com,apparel/accessories,Less than $750K
+953,The Judith Leiber Company,www.judithleiber.com,handbags & accessories,Less than $750K
+954,The Life is good Company,www.lifeisgood.com,casual apparel,Less than $750K
+955,"The Movado Group of Canada, Inc.",www.movadogroup.com,watches & timepieces,Less than $750K
+957,The Snip-its Corporation,www.snipits.com,children's hair salons,Less than $750K
+959,The Walking Company,www.thewalkingco.com,footwear,Less than $750K
+961,The Yucaipa Companies LLC,www.yucaipaco.com,investment company,Less than $750K
+963,Thierry Mugler,mugler.com/int/en/,apparel & cosmetics,Less than $750K
+964,Thorntons,www.thorntonsinc.com,gas & grocery stores,Less than $750K
+966,"Tilly's, Inc.",www.tillys.com,apparel retailer,Less than $750K
+967,Timbuk2,www.timbuk2.com/,specialty retailer,Less than $750K
+968,"Toni & Guy USA, Inc.",www.toniguy.com/,hairdressing salons & training schools,Less than $750K
+969,totes-Isotoner Corporation,www.totes.com,accessories,Less than $750K
+970,Trans World Entertainment Corporation,www.twec.com,specialty retailers,Less than $750K
+971,TravelCenters of America,www.tatravelcenters.com,truck stops,Less than $750K
+972,"Treasure Island Foods, Inc.",www.tifoods.com,grocery store chain,Less than $750K
+974,Tully's Coffee Corporation,www.tullys.com,"beverages, non-alcoholic",Less than $750K
+975,"Tween Brands, Inc. ",www.limitedtoo.com,youth clothing & apparel,Less than $750K
+976,"TYR Sport, Inc.",www.tyr.com,swim wear manufacturer,Less than $750K
+977,"Ultra Stores, Inc.",www.ultradiamonds.com,fine jewelry,Less than $750K
+978,"Unified Grocers, Inc.",www.uwgrocers.com,grocery products,Less than $750K
+986,Vallarta Supermarkets Inc,www.lesliespool.com,pool supply stores,Less than $750K
+987,"ValueVision Media, Inc. ",www.valuevisionmedia.com ,home shopping TV,Less than $750K
+988,"Van Cleef & Arpels, Inc.",www.vancleef-arpels.com,fine jewelry & watches,Less than $750K
+989,"Vans, Inc.",www.vans.com,shoes,Less than $750K
+990,"Varsity Brands, Inc.",www.varsity.com,sports & related equipment,Less than $750K
+991,"Venus Swimwear, Inc.",www.venus.com,clothing,Less than $750K
+994,Victoria's Secret Beauty,www.victoriassecret.com,intimate apparel & fragrances,Less than $750K
+995,"Victoria's Secret Direct, LLC",www.victoriassecret.com,intimate apparel & fragrances,Less than $750K
+999,"Wacoal America, Inc.",www.wacoal-america.com,intimate apparel,Less than $750K
+1001,Warburg Pincus LLC,www.warburgpincus.com,private investment firm,Less than $750K
+1003,Warrior Sports,www.warriorsports.com,athletic apparel,Less than $750K
+1004,Weatherproof Garment Company,www.weatherproofgarment.com,apparel,Less than $750K
+1005,Wells Lamont Corporation,www.wellslamont.com,gloves,Less than $750K
+1006,"Western Beef, Inc.",www.westernbeef.com,grocery store,Less than $750K
+1007,"Weyco Group, Inc.",www.weycogroup.com,men's footwear,Less than $750K
+1008,Wiley X,www.wileyx.com,sunglasses,Less than $750K
+1009,Wilsons Leather,www.wilsonsleather.com,leather apparel,Less than $750K
+1010,"WinCo Foods, Inc.",www.wincofoods.com,grocery stores,Less than $750K
+1011,"Woolrich, Inc.",www.woolrich.com,fabrics & clothing,Less than $750K
+1013,YM LLC USA,www.mandee.com,discount clothing retailer,Less than $750K
+1014,YMI Jeanswear Inc.,www.ymijeans.com,jeans,Less than $750K
+1015,Yogurtland,www.yogurt-land.com,frozen yogurt chain,Less than $750K
+1016,"Z Gallerie, Inc.",www.zgallerie.com,decorative furnishings & textiles,Less than $750K
+1017,"Zones, Inc. ",www.zones.com,technology products reseller,Less than $750K
+1018,"Zumiez, Inc.",www.zumiez.com,sports apparel and equipment,Less than $750K
