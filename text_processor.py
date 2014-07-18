@@ -38,8 +38,8 @@ matches_df = slave_list[slave_list['Company Name'].isin(set_of_matches)] ## And 
 print clean_df ## Print it to the terminal so we can see what's going on
 print matches_df
 
-clean_df.to_csv("threshold =", threshold_value, "Companies that don't appear in master list.csv") ## Write our results to file
-matches_df.to_csv("threshold =", threshold_value, "Companies that appear in master list.csv")
+clean_df.to_csv("threshold = "+ str(threshold_value)+ " Companies that don't appear in master list.csv") ## Write our results to file
+matches_df.to_csv("threshold = "+ str(threshold_value)+ " Companies that appear in master list.csv")
 
 print "checksum: total original rows in slave list = ", len(slave_list)
 print "sum of clean_df rows and matches_df rows =", len(clean_df) + len(matches_df)
